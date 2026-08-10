@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <StyleCategoryDef>
+    <defName>FurryTrash</defName>
+    <label>FurryTrash</label>
+    <iconPath>UI/StyleCategories/FurryTrash</iconPath>
+    <thingDefStyles>
+	  <li>
+        <thingDef>SculptureSmall</thingDef>
+        <styleDef>FurryTrash_Sculpture_Small</styleDef>
+      </li>	
+      <li>
+        <thingDef>SculptureLarge</thingDef>
+        <styleDef>FurryTrash_Sculpture_Large</styleDef>
+      </li>
+      <li>
+        <thingDef>SculptureGrand</thingDef>
+        <styleDef>FurryTrash_Sculpture_Grand</styleDef>
+      </li>
+      <li>
+        <thingDef>Column</thingDef>
+        <styleDef>FurryTrash_Column</styleDef>
+      </li>
+		</thingDefStyles>
+		<addDesignators>
+			<li>FurryTrash_Slab_Medium</li>
+			<li>FurryTrash_Slab_Broad</li>
+			<li>FurryTrash_Slab_Vertical</li>
+			<li>FurryTrash_Rug_Medium</li>
+			<li>FurryTrash_Rug_Broad</li>
+		</addDesignators>
+    </StyleCategoryDef>
+</Defs>
