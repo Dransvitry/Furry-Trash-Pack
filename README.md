@@ -10,3 +10,8 @@ Contributing Artists:
 -Zummeng: https://bsky.app/profile/zummeng.bsky.social
 -Twang: https://www.furaffinity.net/user/twang/
 -Atrolux: https://www.furaffinity.net/user/atrolux/
+-Bat Art Cave: https://batartcave.carrd.co/
+-Braeburned: https://www.furaffinity.net/user/braeburned
+-Pony Dreaming: https://linktr.ee/pony_dreaming
+-Pankallisti: https://pankallisti.straw.page/
+-Remanedur: https://remanedur.straw.page/
