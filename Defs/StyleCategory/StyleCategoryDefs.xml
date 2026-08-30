@@ -17,10 +17,6 @@
         <thingDef>SculptureGrand</thingDef>
         <styleDef>FurryTrash_Sculpture_Grand</styleDef>
       </li>
-      <li>
-        <thingDef>Column</thingDef>
-        <styleDef>FurryTrash_Column</styleDef>
-      </li>
 		</thingDefStyles>
 		<addDesignators>
 			<li>FurryTrash_Slab_Medium</li>
