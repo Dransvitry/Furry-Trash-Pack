@@ -24,11 +24,4 @@
       <drawSize>(4,4)</drawSize>
     </graphicData>
   </ThingStyleDef>
-  <ThingStyleDef ParentName="IdeoColumnStyleBase">
-    <defName>FurryTrash_Column</defName>
-    <graphicData>
-      <texPath>Things/Building/BuildingStyles/FurryTrash/Column/FurryTrash_Column</texPath>
-	  <drawSize>(1,2)</drawSize>
-    </graphicData>
-  </ThingStyleDef>
 </Defs>
